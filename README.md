@@ -22,6 +22,7 @@ Tools Used
 •	MX toolbox email header analyzer 
 
 Objective
+
 •	To identify phishing emails using common warning signs.
 
 •	To classify phishing emails based on their risk level and potential impact.
